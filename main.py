@@ -1,4 +1,4 @@
-"""Entry point for Content-Farm bot."""
+"""Entry point for NewsMaker bot."""
 import argparse
 from pathlib import Path
 
@@ -6,7 +6,7 @@ from pipeline import run_pipeline
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Content-Farm: Reddit to Shorts pipeline")
+    parser = argparse.ArgumentParser(description="NewsMaker: Reddit to Shorts pipeline")
     parser.add_argument(
         "--upload",
         action="store_true",

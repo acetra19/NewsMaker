@@ -1,4 +1,4 @@
-# Content-Farm Bot – Dependencies
+# NewsMaker Bot – Dependencies
 # Python 3.10+
 
 # Content & Scripting (The Brain)

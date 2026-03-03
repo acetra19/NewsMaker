@@ -1,6 +1,6 @@
-# Content-Farm Masterplan: The 'Sales-Free' Automated Video Bot
+# NewsMaker Masterplan: The 'Sales-Free' Automated Video Bot
 
-## 1. Strategie-Vergleich: Warum Content-Farm > Solar-Lead-Bot?
+## 1. Strategie-Vergleich: Warum NewsMaker > Solar-Lead-Bot?
 
 ### Das Problem mit dem Solar-Lead-Bot (Der "Mensch-Faktor")
 Das ursprüngliche Modell ("Solar-Lead-AI") basierte auf B2B-Vertrieb. Dies bringt massive operative Hürden für Solopreneure mit sich:
@@ -9,8 +9,8 @@ Das ursprüngliche Modell ("Solar-Lead-AI") basierte auf B2B-Vertrieb. Dies brin
 - **Client-Management:** Kunden haben Erwartungen, beschweren sich und kündigen Retainer-Verträge.
 - **Skalierungsgrenze:** Linearer Aufwand (mehr Kunden = mehr Support).
 
-### Die Lösung: The Content-Farm (Permissionless Revenue)
-Das "Content-Farm"-Modell eliminiert den Faktor "Kunde" vollständig.
+### Die Lösung: NewsMaker (Permissionless Revenue)
+Das NewsMaker-Modell eliminiert den Faktor "Kunde" vollständig.
 - **Kein Verkauf:** Der Algorithmus (YouTube/TikTok) ist der einzige "Abnehmer". Er sagt nicht "Nein", er bewertet nur Metriken.
 - **Permissionless:** Niemand muss um Erlaubnis gefragt werden, um zu starten oder zu skalieren.
 - **Unendlicher Leverage:** Einmal geschriebener Code produziert tausende Videos. Ein Video kann 10 oder 10 Millionen Views generieren (gleicher Arbeitsaufwand).

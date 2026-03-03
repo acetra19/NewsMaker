@@ -1,4 +1,4 @@
-# Content-Farm Bot – Debian-based image
+# NewsMaker Bot – Debian-based image
 FROM python:3.11-slim-bookworm
 
 RUN apt-get update && apt-get install -y --no-install-recommends \

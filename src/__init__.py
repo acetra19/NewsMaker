@@ -1,1 +1,1 @@
-"""Content-Farm bot source packages."""
+"""NewsMaker bot source packages."""
